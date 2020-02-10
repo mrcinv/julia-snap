@@ -12,12 +12,13 @@ To build julia, first install [snapcraft](https://snapcraft.io/). Then simply ru
  You can run julia with
  
     $ julia-mrcinv
+                   _
        _       _ _(_)_     |  Documentation: https://docs.julialang.org
       (_)     | (_) (_)    |
        _ _   _| |_  __ _   |  Type "?" for help, "]?" for Pkg help.
       | | | | | | |/ _` |  |
-      | | |_| | | | (_| |  |  Version 1.1.1 (2019-05-16)
+      | | |_| | | | (_| |  |  Version 1.3.1 (2019-12-30)
      _/ |\__'_|_|_|\__'_|  |  Official https://julialang.org/ release
     |__/                   |
-
+    
     julia>
