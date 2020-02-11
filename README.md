@@ -1,5 +1,7 @@
 # Snapcraft configuration for julia
 
+[![Snap Status](https://build.snapcraft.io/badge/mrcinv/julia-snap.svg)](https://build.snapcraft.io/user/mrcinv/julia-snap)
+
 To build julia, first install [snapcraft](https://snapcraft.io/). Then simply run 
 
     $ cd julia-snap
