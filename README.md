@@ -22,3 +22,7 @@ To build julia, first install [snapcraft](https://snapcraft.io/). Then simply ru
     |__/                   |
     
     julia>
+
+To be able to simply use `julia` to run the snap, you can use bash command alias
+
+    alias julia='snap run julia-mrcinv'
