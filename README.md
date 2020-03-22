@@ -28,3 +28,5 @@ To build julia, first install [snapcraft](https://snapcraft.io/). Then simply ru
 To be able to simply use `julia` to run the snap, you can use bash command alias
 
     alias julia='snap run julia-mrcinv'
+    
+or put the script [bin/julia](bin/julia) somewhere in your path (`/usr/local/bin` for example).
