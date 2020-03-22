@@ -1,0 +1,3 @@
+#!/bin/bash
+# Put this file somewhere in your path (/usr/local/bin for example)
+snap run julia-mrcinv "$@"
