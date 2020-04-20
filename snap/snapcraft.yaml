@@ -11,7 +11,7 @@ description: |
 confinement: classic
 base: core18
 grade: stable
-architectures: [amd64, i386, armhf, arm64]
+architectures: [amd64, armhf, arm64]
 
 
 parts:
